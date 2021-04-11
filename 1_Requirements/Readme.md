@@ -38,6 +38,10 @@
 	  <h5>6.View customer’s list
 
 <h4>Since we have assumed that few systems already exists we can say that in future sprints new features could be added.
+	
+	
+![Konsus SWOT Design 03-16 9](https://user-images.githubusercontent.com/59175027/114295579-ca674d80-9ac3-11eb-94f1-e7a4942900e8.png)	
+	
 
 <h2>SWOT ANALYSIS
 
