@@ -1,62 +1,53 @@
-Requirements
-Introduction
-•	A bank is a financial institution which accepts deposits, pays interest on pre-defined rates, clears checks, makes loans, and often acts as an intermediary in financial transactions. It also provides other financial services to its customers.
-•	Bank management governs various concerns associated with bank in order to maximize profits. The concerns broadly include liquidity management, asset management, liability management and capital management. 
-Research
-Bank Management System Features 
-What to expect: 
-Here are some of the features available through online banking: 
-
-1.  View balances: Firstly login your account with your account number and password. Then checking your balance doesn't require much work. You simply select Account balances and take a look at your balance and past transactions. If you have more than one account, you can also do transfers between accounts. 
+ <h1>Requirements
+   <h2>Introduction
+	<h5>The Student Management System is an application which is useful for schools,colleges,universities to know about every student information.
+	<h5>It is not easy to maintain hundreds of students information in a paper or book and we can't keep them safe.The easiest way is to store them in database so that whenever we want we can access them. 
+<h2>Research
+<h3>Student Management System Features 
 
 
-2.  Transfer funds: When you select Transfer Funds, you'll be asked where to transfer the money to and from, when, and the amount. 
+   <h5>1. Admission Management:   The admission management module streamlines and automates every aspect of the admission process, including filling up online forms, fee submission, batch allotment, and document submission
 
 
-3.  Set up recurring bill payments or transfers: If you make a regular payment every month, it might be convenient to set up an automatic withdrawal from your account. 
+   <h5>2. Attendance Management:This module allows teachers to mark and view attendance of any respective students. Using the system, they can even share the attendance status of a student with their respective parents.It also keeps track of staff members’ complete attendance records.
+   
+   
+   <h5>3. Document Management:Document management allows you to upload/enter complete students’ details. It includes contact details, parents’ details, report cards, health details, and more. All information is safely kept 
 
 
-4.  Monitor CIBC investments: If you have any CIBC investments, you can keep an eye on those stocks or mutual funds here. 
+   <h5>4. Fee Management:It helps you manage all the fee-related tasks such as accepting fees, keeping fee records, maintaining receipts, taking care of dues and refunds, and more. It also allows you to create the fees cycle of the school 
 
-
-
-5.  Pay bills: To pay your bills online, you just need to add to your account the names of the companies you wish to pay bills to. 
-
-
-6.  View our VISA* accounts: Always a good place to monitor your spending. You can make your credit card payments online, right from your account. 
-
-
-7.  Order Cheques: We don't need them much anymore due to online banking and debit purchases, but if you still use cheques, you can order them directly from the BAMS website.
-
-Cost and Features with Time
 		
-	Time	Feature	Cost
-10		
+<h2>Defining Our System
+
+<h3>Explanation:
+	<h4>Student Record Application have few inbuilt features like:
+	  <h5>1.Addition of new student
+	  <h5>2.Searching of a student
+	  <h5>3.View student information
+	  <h5>4.Delete existing student
+          <h5>5.Update password of existing student
+	  
+
+<h4>Since we have assumed that few systems already exists we can say that in future sprints new features could be added.
 	
-Defining Our System
-Explanation:
-•	Bank Management Application have few inbuilt features like:
-o	Create a new account
-o	Update information of an existing account
-o	View and manage transactions
-o	Check details of an existing account
-o	Remove existing account
-o	View customer’s list
+	
+![Konsus SWOT Design 03-16 9](https://user-images.githubusercontent.com/59175027/114295579-ca674d80-9ac3-11eb-94f1-e7a4942900e8.png)	
+	
 
-•	Since we have assumed that few systems already exists we can say that in future sprints new features could be added.
-SWOT ANALYSIS
+<h2>SWOT ANALYSIS
 
-4W's and 1'H
-Who:
-•	Small and medium size banks Providing their services to people
-What:
-•	Many people have to go to banks and wait for hours to get their work completed so this bank management system gives clear idea on every one’s personal information.
-When:
-•	This problem began in hundred years ago only .Many apps also came into existence. 
-Where:
-•	This problem is expected to surface in all states of India.
-How:
-•	This problem may cause ineffective account management and hence there can be a huge amount of time wastage. 
+<h2>4W's and 1'H
+<h3>Who:
+	<h5>Small and medium size record systems providing services to schools,colleges,universities etc..
+<h3>What:
+	<h5>Many schools and colleges have difficulty in maintaining student records,this record system will help them in maintaining and accessing student information.
+<h3>When:
+	<h5>This problem began in hundred years ago only .Many record systems also came into existence. 
+<h3>Where:
+	<h5>This problem is expected to surface in all states of India.
+<h3>How:
+	<h5>This problem may cause ineffective record management and hence there can be a huge amount of time wastage. 
 
 
 
